@@ -6434,6 +6434,14 @@ button.bg-dark:focus {
   background-color: #1d2124 !important;
 }
 
+.bg-tiel {
+  background-color: #20c997 !important;
+}
+
+.bg-purple {
+  background-color: #6f42c1 !important;
+}
+
 .bg-white {
   background-color: #fff !important;
 }
